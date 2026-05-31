@@ -2,12 +2,12 @@
 
 <h1 align="center"><a href="" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=false&vCenter=false&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Raj+Yadav" alt="Hey there 🙋♂️, I'm Raj Yadav" /></a></h1> -->
 
-<a href="https://raj-portfolio-29.netlify.app/" target="_blank" rel="noopener noreferrer" style="border-radius: 10px;">
+<a href="https://raj-portfolio-29.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img
     alt="Raj Yadav"
     src="./assets/banner.png"
     width="100%"
-    borderRadius="10px"
+    style="border-radius: 20px;"
   />
 </a>
 
@@ -108,27 +108,19 @@
 <h3>📊 GitHub Stats:</h3>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="30%" valign="middle" align="center">
-      <img src="./assets/laptop_stats.png" width="95%" style="border-radius:10px;" alt="Coding Laptop Visual" />
+    <td width="50%" height="80%" valign="middle" align="center">
+      <img src="./assets/laptop_stats.png" width="100%" style="border-radius:10px;" alt="Coding Laptop Visual" />
     </td>
-    <td width="35%" valign="middle" align="center">
-      <a href="https://aayushbharti.in">
-      <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-    </a>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <a href="https://aayushbharti.in">
-         <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
-      </a>
-    <br/>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-raj29&theme=dark&background=0a0e1a&border=1f2d4d&stroke=38bdf8&ring=c324eb&fire=c324eb&currRing=38bdf8&currFire=38bdf8&sideBorder=1f2d4d" width="100%" height="60%" alt="GitHub Streak Stats" />
     <a href="https://aayushbharti.in">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+      <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=developer-raj29&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
     </a>
     </td>
   </tr>
 </table>
 
-<br/>
+
 
 <!-- Row 5: WakaTime & Streak Stats -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -136,9 +128,7 @@
     <td width="50%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=developer-raj29&layout=compact&bg_color=0a0e1a&border_color=1f2d4d&title_color=38bdf8&text_color=ffffff&border_radius=10" width="100%" alt="Wakatime Stats" />
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-raj29&theme=dark&background=0a0e1a&border=1f2d4d&stroke=38bdf8&ring=c324eb&fire=c324eb&currRing=38bdf8&currFire=38bdf8&sideBorder=1f2d4d" width="100%" alt="GitHub Streak Stats" />
-    </td>
+    
   </tr>
 </table>
 
