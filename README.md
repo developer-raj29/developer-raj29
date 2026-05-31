@@ -2,7 +2,7 @@
 
 <h1 align="center"><a href="" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=false&vCenter=false&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Raj+Yadav" alt="Hey there 🙋♂️, I'm Raj Yadav" /></a></h1> -->
 
-<a href="https://raj-portfolio-29.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://raj-developer-2920.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
     alt="Raj Yadav"
     src="./assets/banner.png"
@@ -15,11 +15,11 @@
     <img src="https://komarev.com/ghpvc/?username=developer-raj29&color=1d33fa&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </a> -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=developer-raj29&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in)
+[![Visits Badge](https://komarev.com/ghpvc/?username=developer-raj29&label=Profile%20views&color=red&style=for-the-badge)](https://raj-developer-2920.vercel.app/)
+[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://raj-developer-2920.vercel.app/)
 
-<!-- <a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a> -->
-<a href="https://linkedin.com/in/iAayushBharti" target="_blank">
+<!-- <a href="https://x.com/" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Raj Yadav | X" /></a> -->
+<a href="https://www.linkedin.com/in/rajyadav-fullstack/" target="_blank">
   <img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="RajYadav| LinkedIn" />
 </a>
 <a href="mailto:rajyadav.dev29@gmail.com"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="RajYadav | Email" /></a>
@@ -33,17 +33,18 @@
       <h3>👤 About Me:</h3>
       <ul>
         <li>🌱 I'm currently learning <b>Java and DSA from Apna College</b> <a href="https://github.com/Rajyadav2912/Alpha-3.0_Java_with_DSA" target="_blank">🔗</a></li>
-        <li>🚀 My Latest Project is <a href="https://raj-portfolio-29.netlify.app/" target="_blank">🔗</a></li>
-        <li>🛍️ Design an E-commerce Shopping Website <a href="https://e-commerce-shopping-website-29.netlify.app" target="_blank">🔗</a></li>
-        <li>📱 Contact App Using CRUD <a href="https://contact-app-crud.vercel.app/" target="_blank">🔗</a></li>
-        <li>🧑‍💻 All of my projects are available at <a href="https://rajyadav2912.github.io/Raj_Portfolio_2920" target="_blank">🔗</a></li>
-        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1ogExUr8iNERb639N2uY3KZ-5K5vJ8jC_/view?usp=sharing" target="_blank">🔗</a></li>
+        <li>🚀 My Latest Project is <a href="https://raj-developer-2920.vercel.app/" target="_blank">🔗</a></li>
+        <li>📚 Design an LMS System or Study Notion Website <a href="https://studynotion-mern-project.vercel.app/" target="_blank">🔗</a></li>
+        <li>🎁 Developed Blinkeyit grocery web-app clone <a href="https://blinkeyit-groceries.vercel.app/" target="_blank">🔗</a></li>
+        <li>🧑‍💻 All of my projects are available at <a href="https://github.com/developer-raj29" target="_blank">🔗</a></li>
+        <li>📄 Know about my experiences <a href="" target="_blank">🔗</a></li>
         <li>🤝 I'm looking for help with</li>
         <li>💬 Ask me about</li>
       </ul>
     </td>
-    <td width="45%" valign="middle" align="right">
-      <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+    <td width="50%" valign="middle" align="right">
+      <!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
+      <img align="right" alt="Coder GIF" height=300 width=400 src="./assets/about_dev.png" />
     </td>
   </tr>
 </table>
@@ -57,17 +58,21 @@
 
 <p align="left">
  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,mongodb,expressjs,nodejs,postgresql,mysql,java,reactrouter,framer,figma,notion,redis,git,github,githubactions,vercel,docker,aws,&theme=dark&titles=true)](https://aayushbharti.in)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,mongodb,expressjs,nodejs,postgresql,mysql,java,reactrouter,framer,figma,notion,redis,git,github,githubactions,vercel,docker,aws,&theme=dark&titles=true)](https://raj-developer-2920.vercel.app/)
 
 </p>
 
-# 🌐 Socials:
+</br>
+🌐 Socials:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajyadav-2920r0218j8/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rajyadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadav_raj.29) ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21994345/raj-yadav) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
 
 <!-- Row 4: GitHub Stats -->
 <h3>📊 GitHub Stats:</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" height="80%" valign="middle" align="center">
@@ -75,7 +80,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-raj29&theme=dark&background=0a0e1a&border=1f2d4d&stroke=38bdf8&ring=c324eb&fire=c324eb&currRing=38bdf8&currFire=38bdf8&sideBorder=1f2d4d" width="100%" height="60%" alt="GitHub Streak Stats" />
-    <a href="https://aayushbharti.in">
+    <a href="https://raj-developer-2920.vercel.app/">
       <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=developer-raj29&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
     </a>
     </td>
@@ -105,11 +110,7 @@
   </tr>
 </table> -->
 
-<!-- Row 8: Footer -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="100%" valign="middle">
-      <img src="./assets/thanks.svg" width="100%" alt="Thanks for visiting!" />
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
+
+ <h1 align="center"> Thanks for visiting! Don't forget to ⭐ some repositories! ✋</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
