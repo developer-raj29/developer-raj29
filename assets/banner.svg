@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2167" height="725" viewBox="0 0 2167 725">
+  <defs>
+    <!-- Clipping path to create rounded corners natively -->
+    <clipPath id="banner-clip">
+      <rect x="0" y="0" width="2167" height="725" rx="22" ry="22"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Render the original image clipped to the rounded rect -->
+  <image href="banner.png" width="2167" height="725" clip-path="url(#banner-clip)"/>
+</svg>
